@@ -1,0 +1,13 @@
+{
+  "name": "building-a-language",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Chris Marlow <christopher.marlow@shopify.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "tap"
+  },
+  "dependencies": {
+    "tap": "^14.9.2"
+  }
+}
